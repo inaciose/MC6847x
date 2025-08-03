@@ -6,10 +6,11 @@ Efectuei os circuitos 1 e 2. Tive alguns problemas com a qualidade de imagem no 
 Quando tentei o circuito 3, que seria o que produziria a imagem a cores recorrendo ao MC1372, não consegui. Apesar de tentar vários circuitos que encontrei. Ou combinações entre eles.
 
 2025-08
-Ainda andei de volta dos circuitos com o MC1372, mas não consegui colocar a funcionar. Ver test3.
-Vou suspender temporariamente esta parte do projecto.
+Ainda andei de volta dos circuitos com o MC1372, mas não consegui colocar a funcionar como gerador de video composto. Ver test3.
+O que consegui colocar a funcionar a cores foi o circuito de saida s-video do pmig96. Ver test7
 
-Eventualmente vou usar tal como está, a preto e branco, para ver se o consigo colocar a funcionar num computador com o CPU MC6809, e noutro com o MC68010.
+Eventualmente vou usar tal como está, e numa primeira fase a preto e branco, para ver se o consigo colocar a funcionar num computador com o CPU MC6809, e noutro com o MC68010.
 Mais tarde voltarei a este problema. Já encomendei mais 2 MC1372, para perceber se o problema está no IC.
 
 
+Vou suspender temporariamente esta parte do projecto. Eventualmente vou fazer um pcb para o circuito de s-video com o MC1372.
